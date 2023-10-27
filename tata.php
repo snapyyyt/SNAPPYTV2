@@ -59,6 +59,26 @@
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },
+	  {
+        "tvg-logo": "https://i.postimg.cc/MpfpGDBt/download.png",
+        "group-title": "Movies",
+        "channel-name": "STAR GOLD THRILLS",
+        "tvg-id": "",
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:33:33:33&stream=155996&extension=ts&play_token=okyxU9dpBU",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+    },
+	  {
+        "tvg-logo": "https://i.postimg.cc/2yXT0m2Q/download.jpg",
+        "group-title": "Movies",
+        "channel-name": "STAR GOLD ROMANCE",
+        "tvg-id": "",
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:33:33:33&stream=156033&extension=ts&play_token=Hc0St2skhy",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+    },
     {
         "license-type": "clearkey",
         "license-key": "https://koka-koka.vercel.app/key?requestor=Toxictvvalidtill-16-Dec2023&id=842",
@@ -6427,5 +6447,5 @@
         "group-title": "null",
         "channel-name": "U Bangla TV",
         "video-streaming-link": "https:\/\/ubangla.akamaized.net\/hls\/ubangla.m3u8"
-    },
+    }
 ]
