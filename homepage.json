@@ -7,7 +7,7 @@
     },
     {
         "server-name" : "Tata Play",
-        "server-api" : "https://raw.githubusercontent.com/snapyyyt/SNAPPYTV2/main/tata.php",
+        "server-api" : "https://snappytv.000webhostapp.com/tata.php",
         "is-active" : true,
         "logo-url" : "https://i.ibb.co/WKckHbw/tataplay.png"
     },
