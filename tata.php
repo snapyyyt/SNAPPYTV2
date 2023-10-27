@@ -6447,5 +6447,5 @@
         "group-title": "null",
         "channel-name": "U Bangla TV",
         "video-streaming-link": "https:\/\/ubangla.akamaized.net\/hls\/ubangla.m3u8"
-    }
+    },
 ]
