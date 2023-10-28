@@ -44,7 +44,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama",
         "tvg-id": "",
-        "video-streaming-link": "https://sanjibstream.live/sanjibdrop/dhoomtv/master.m3u8?id=10482",
+        "video-streaming-link": "http://b1g.me:80/William123/William123/161878.m3u8",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": ""
